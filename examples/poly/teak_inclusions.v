@@ -1,0 +1,7 @@
+`include "/home/ana/eTeak/teak-0.4/examples/new_examples/verilog_main/runtime.v"
+`include "/home/ana/eTeak/teak-0.4/examples/new_examples/verilog_main/monitors.v"
+`include "/home/ana/eTeak/teak-0.4/examples/new_examples/verilog_main/example.v"
+//include "/home/ana/eTeak/teak-0.4/examples/new_examples/verilog_main/tsmc090.v"
+//`include "umc130f-mapping.v"
+`include "top.v"
+//`include "myBuf.v"
